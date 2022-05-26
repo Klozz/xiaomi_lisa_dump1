@@ -1,0 +1,3 @@
+require version-baseband=4.3.c2-00075-LC_ALL_PACK-1.5354.3.5791.8
+require version-trustzone=TZ.XF.5.11.C7-00001-1
+require version-vendor=1649740863
