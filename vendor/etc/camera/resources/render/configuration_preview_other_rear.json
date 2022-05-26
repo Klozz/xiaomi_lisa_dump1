@@ -1,0 +1,13 @@
+{
+	"TrueSight":
+	[
+		{
+			"ConfigurePath":"Configure/15_Spotless/configuration.json",
+			"Index":15
+		},
+		{
+			"ConfigurePath":"Configure/16_SkinSmooth/configuration_rear.json",
+			"Index":16
+		}
+	]
+}
