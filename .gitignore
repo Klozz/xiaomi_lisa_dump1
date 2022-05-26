@@ -1,0 +1,10 @@
+vendor/camera/mimoji/model2.zip
+vendor/etc/camera/st_license.lic
+boot.img
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system/system/app/MiuiVideoPlayer/MiuiVideoPlayer.apk
+system/system/apex/com.android.vndk.current.apex
+modem.img
+system_ext/priv-app/Settings/Settings.apk

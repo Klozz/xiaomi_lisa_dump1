@@ -1,0 +1,14 @@
+# missi-user 11 RKQ1.210503.001 V12.5.14.0.RKOMIXM release-keys
+- manufacturer: xiaomi
+- platform: lahaina
+- codename: lisa
+- flavor: missi-user
+- release: 11
+- id: RKQ1.210503.001
+- incremental: V12.5.14.0.RKOMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/lisa_global/lisa:11/RKQ1.210503.001/V12.5.14.0.RKOMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-11-RKQ1.210503.001-V12.5.14.0.RKOMIXM-release-keys
+- repo: xiaomi_lisa_dump
