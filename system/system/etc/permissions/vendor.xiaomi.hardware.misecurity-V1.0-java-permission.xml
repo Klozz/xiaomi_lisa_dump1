@@ -1,0 +1,4 @@
+<permissions>
+    <library name="vendor.xiaomi.hardware.misecurity-V1.0-java"
+            file="/system_ext/framework/vendor.xiaomi.hardware.misecurity-V1.0-java.jar" />
+</permissions>

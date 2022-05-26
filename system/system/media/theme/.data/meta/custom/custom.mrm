@@ -1,0 +1,12 @@
+[
+    {
+        "subject": "lisadefault",
+        "international": true,
+        "hwversion": [
+            "*"
+        ],
+        "local": {
+            "id": "0"
+        }
+    }
+]
