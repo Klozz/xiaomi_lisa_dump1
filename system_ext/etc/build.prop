@@ -1,0 +1,35 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Xiaomi
+ro.product.system_ext.device=lisa
+ro.product.system_ext.manufacturer=Xiaomi
+ro.product.system_ext.model=Xiaomi 11 Lite NE
+ro.product.system_ext.name=aosp_lisa
+ro.system_ext.build.date=Sat Jun 11 09:51:23 CEST 2022
+ro.system_ext.build.date.utc=1654933883
+ro.system_ext.build.fingerprint=Xiaomi/lisa/lisa:12/SQ3A.220605.009.B1/0752:userdebug/test-keys
+ro.system_ext.build.id=SQ3A.220605.009.B1
+ro.system_ext.build.tags=test-keys
+ro.system_ext.build.type=userdebug
+ro.system_ext.build.version.incremental=1654933946
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=32
+####################################
+# from device/xiaomi/lisa/properties/system_ext.prop
+####################################
+# DPM
+persist.vendor.dpm.feature=11
+# Media
+vendor.media.target_variant=_yupik_v1
+# Telephony
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.bt.a2dp.aac_whitelist=false
+persist.vendor.btstack.enable.lpa=true
+# end of file
