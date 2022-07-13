@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Xiaomi
+ro.product.vendor_dlkm.device=lisa
+ro.product.vendor_dlkm.manufacturer=Xiaomi
+ro.product.vendor_dlkm.model=Xiaomi 11 Lite NE
+ro.product.vendor_dlkm.name=aosp_lisa
+ro.vendor_dlkm.build.date=Mon Jul 11 14:05:13 CEST 2022
+ro.vendor_dlkm.build.date.utc=1657541113
+ro.vendor_dlkm.build.fingerprint=Xiaomi/lisa/lisa:12/SQ3A.220705.003.A1/1206:userdebug/test-keys
+ro.vendor_dlkm.build.id=SQ3A.220705.003.A1
+ro.vendor_dlkm.build.tags=test-keys
+ro.vendor_dlkm.build.type=userdebug
+ro.vendor_dlkm.build.version.incremental=1657541183
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=32
+# end of file

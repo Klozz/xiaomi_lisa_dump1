@@ -1,0 +1,14 @@
+# aosp_lisa-userdebug 12 SQ3A.220705.003.A1 1657541183 test-keys
+- manufacturer: 
+- platform: lahaina
+- codename: lisa
+- flavor: aosp_lisa-userdebug
+- release: 12
+- id: SQ3A.220705.003.A1
+- incremental: 1657541183
+- tags: test-keys
+- fingerprint: Xiaomi/lisa/lisa:12/SQ3A.220705.003.A1/1206:userdebug/test-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: aosp_lisa-userdebug-12-SQ3A.220705.003.A1-1657541183-test-keys
+- repo: xiaomi_lisa_dump
