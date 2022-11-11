@@ -1,0 +1,7 @@
+Acc icm4x6xx_0_platform.accel.fac_cal.bias /vendor/etc/sensors/config/sm7350_icm4x6xx_0.json 0 icm4x6xx
+Acc icm4x6xa_0_platform.accel.fac_cal.bias /vendor/etc/sensors/config/sm7350_icm4x6xa_0.json 0 icm4x6xa
+Gyr icm4x6xx_0_platform.gyro.fac_cal.bias /vendor/etc/sensors/config/sm7350_icm4x6xx_0.json 0 icm4x6xx
+Gyr icm4x6xa_0_platform.gyro.fac_cal.bias /vendor/etc/sensors/config/sm7350_icm4x6xa_0.json 0 icm4x6xa
+Lux tcs3701_new_platform.als.fac_cal /vendor/etc/sensors/config/sm7350_tcs3701_new_arch.json 0 ams_tcs3701_new
+Lux stk3a6x_0_platform.als.fac_cal /vendor/etc/sensors/config/sm7350_stk3a6x_0.json 0 stk_stk3a6x
+Lux_B tsl2540_rear_platform.als.fac_cal /vendor/etc/sensors/config/sm7350_tsl2540_0.json 0 tsl2540_rear

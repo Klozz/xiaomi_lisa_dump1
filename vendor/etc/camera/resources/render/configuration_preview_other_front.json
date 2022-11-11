@@ -1,0 +1,21 @@
+{
+	"TrueSight":
+	[
+		{
+			"ConfigurePath":"Configure/15_Spotless/configuration.json",
+			"Index":15
+		},
+		{
+			"ConfigurePath":"Configure/16_SkinSmooth/configuration.json",
+			"Index":16
+		},
+		{
+			"ConfigurePath":"Configure/50_PreviewSkinTone/configuration_other_front.json",
+			"Index":50
+		},	
+		{
+			"ConfigurePath":"Configure/80_FacialRefineV2_classical/configuration_preview.json",
+			"Index":80
+		}
+	]
+}
