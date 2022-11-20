@@ -1,0 +1,14 @@
+# aosp_lisa-user 13 TD1A.221105.003 eng.karan.20221116.082739 release-keys
+- manufacturer: xiaomi
+- platform: lahaina
+- codename: lisa
+- flavor: aosp_lisa-user
+- release: 13
+- id: TD1A.221105.003
+- incremental: eng.karan.20221116.082739
+- tags: release-keys
+- fingerprint: Xiaomi/aosp_lisa/lisa:13/TD1A.221105.003/karan11160826:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: aosp_lisa-user-13-TD1A.221105.003-eng.karan.20221116.082739-release-keys
+- repo: xiaomi_lisa_dump

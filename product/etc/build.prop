@@ -1,0 +1,107 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Xiaomi
+ro.product.product.device=lisa
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=Xiaomi 11 Lite NE
+ro.product.product.name=aosp_lisa
+ro.product.build.date=Wed Nov 16 08:26:29 UTC 2022
+ro.product.build.date.utc=1668587189
+ro.product.build.fingerprint=Xiaomi/aosp_lisa/lisa:13/TD1A.221105.003/karan11160826:user/release-keys
+ro.product.build.id=TD1A.221105.003
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=eng.karan.20221116.082739
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from device/xiaomi/lisa/properties/product.prop
+####################################
+# Audio
+af.fast_track_multiplier=1
+audio.deep_buffer.media=true
+audio.offload.min.duration.secs=30
+audio.offload.video=true
+ro.af.client_heap_size_kbyte=7168
+# Set the Bluetooth Class of Device
+# Service Field: 0x5A -> 90
+#    Bit 17: Networking
+#    Bit 19: Capturing
+#    Bit 20: Object Transfer
+#    Bit 22: Telephony
+# MAJOR_CLASS: 0x02 -> 2 (Phone)
+# MINOR_CLASS: 0x0C -> 12 (Smart Phone)
+bluetooth.device.class_of_device=90,2,12
+# Set supported Bluetooth profiles to enabled
+bluetooth.profile.asha.central.enabled=true
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+bluetooth.profile.bas.client.enabled=true
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.hid.device.enabled=true
+bluetooth.profile.hid.host.enabled=true
+bluetooth.profile.map.server.enabled=true
+bluetooth.profile.opp.enabled=true
+bluetooth.profile.pan.nap.enabled=true
+bluetooth.profile.pan.panu.enabled=true
+bluetooth.profile.pbap.server.enabled=true
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,dtbo,odm,product,system,system_ext,vbmeta,vbmeta_system,vendor,vendor_boot
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.com.google.lens.oem_camera_package=com.android.camera
+ro.config.ringtone=Your_new_adventure.ogg
+ro.config.notification_sound=Eureka.ogg
+ro.config.alarm_alert=Fresh_start.ogg
+ro.com.google.ime.bs_theme=true
+ro.com.google.ime.theme_id=5
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
+ro.opa.eligible_device=true
+ro.setupwizard.enterprise_mode=1
+ro.setupwizard.esim_cid_ignore=00000001
+ro.setupwizard.rotation_locked=true
+setupwizard.feature.baseline_setupwizard_enabled=true
+setupwizard.feature.day_night_mode_enabled=true
+setupwizard.feature.portal_notification=true
+setupwizard.feature.show_pai_screen_in_main_flow.carrier1839=false
+setupwizard.feature.show_pixel_tos=true
+setupwizard.feature.show_support_link_in_deferred_setup=false
+setupwizard.feature.skip_button_use_mobile_data.carrier1839=true
+setupwizard.theme=glif_v3_light
+ro.com.google.ime.bs_theme=true
+ro.com.google.ime.theme_id=5
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
+ro.com.google.ime.kb_pad_port_l=4
+ro.com.google.ime.kb_pad_port_r=4
+ro.com.google.ime.kb_pad_land_l=64
+ro.com.google.ime.kb_pad_land_r=64
+ro.setupwizard.enterprise_mode=1
+ro.setupwizard.esim_cid_ignore=00000001
+ro.setupwizard.rotation_locked=true
+setupwizard.feature.baseline_setupwizard_enabled=true
+setupwizard.feature.day_night_mode_enabled=true
+setupwizard.feature.portal_notification=true
+setupwizard.feature.show_pai_screen_in_main_flow.carrier1839=false
+setupwizard.feature.show_pixel_tos=true
+setupwizard.feature.show_support_link_in_deferred_setup=false
+setupwizard.feature.skip_button_use_mobile_data.carrier1839=true
+setupwizard.theme=glif_v3_light
+ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural;com.google.android.systemui.gxoverlay
+ro.url.legal=http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html
+ro.url.legal.android_privacy=http://www.google.com/intl/%s/mobile/android/basic/privacy.html
+ro.setupwizard.enterprise_mode=1
+setupwizard.feature.predeferred_enabled=false
+ro.setupwizard.mode=OPTIONAL
+ro.apex.updatable=false
+ro.control_privapp_permissions=log
+ro.support_one_handed_mode=true
+# end of file

@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<config><compat-change description="Starting with {@link android.os.Build.VERSION_CODES#TIRAMISU}, applications are not allowed to enable/disable Bluetooth." enableSinceTargetSdk="33" id="218493289" name="RESTRICT_ENABLE_DISABLE" /></config>

@@ -1,0 +1,36 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Xiaomi
+ro.product.system_ext.device=lisa
+ro.product.system_ext.manufacturer=Xiaomi
+ro.product.system_ext.model=Xiaomi 11 Lite NE
+ro.product.system_ext.name=aosp_lisa
+ro.system_ext.build.date=Wed Nov 16 08:26:29 UTC 2022
+ro.system_ext.build.date.utc=1668587189
+ro.system_ext.build.fingerprint=Xiaomi/aosp_lisa/lisa:13/TD1A.221105.003/karan11160826:user/release-keys
+ro.system_ext.build.id=TD1A.221105.003
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.karan.20221116.082739
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from device/xiaomi/lisa/properties/system_ext.prop
+####################################
+# Bluetooth
+bluetooth.hardware.power.operating_voltage_mv=3700
+# DPM
+persist.vendor.dpm.feature=11
+# Telephony
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# WFD
+debug.sf.latch_unsignaled=1
+persist.debug.wfd.enable=1
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file
