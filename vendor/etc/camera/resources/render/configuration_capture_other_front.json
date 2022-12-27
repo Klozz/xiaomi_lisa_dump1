@@ -1,0 +1,13 @@
+{
+	"TrueSight":
+	[
+		{
+			"ConfigurePath":"Configure/50_CaptureSkinTone/configuration_other_front.json",
+			"Index":50
+		},
+		{
+			"ConfigurePath":"Configure/80_FacialRefineV2_classical/configuration_capture.json",
+			"Index":80
+		}
+	]
+}

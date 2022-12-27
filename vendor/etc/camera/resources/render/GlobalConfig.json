@@ -1,0 +1,6 @@
+{
+  "MaxStashFaceCount":3,
+  "ChildAgeThreshold":-1,
+  "SmallFaceRatioRange":[5, 10],
+  "IsNeedFixEnvLightForMakeup":false
+}
